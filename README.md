@@ -1,18 +1,9 @@
-TypeScript Hello World Demo
-===========================
+TypeScript Define Getter For Nested Property Demo
+==================================================
+
+为一个很深的property定义getter
 
 ```
 npm install
 npm run demo
 ```
-
-Note:
-
-`esModuleInterop` is recommended to set to `true`,
-since we can have consistent importing syntax with babel,
-always use:
-
-```
-import some from 'some'
-```
-
